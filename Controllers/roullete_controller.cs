@@ -32,5 +32,8 @@ namespace api_roullete.Controllers
         }
         return false;
      }
-
+    public IEnumerable<Id> GetAllIds()
+    {
+        return _id;
+    }
     }
