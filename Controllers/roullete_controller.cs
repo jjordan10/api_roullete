@@ -17,5 +17,11 @@ namespace api_roullete.Controllers
     [Route("[controller]")]
     public class Roullete_controller : ControllerBase
     {
+        private IList<id> _id;
+
+        public Roullete_controller()
+    {
+        _id = new List<id>();
+    }
 
     }
