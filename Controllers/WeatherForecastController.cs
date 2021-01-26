@@ -7,6 +7,12 @@ using Microsoft.Extensions.Logging;
 
 namespace api_roullete.Controllers
 {
+    public class Student
+    {
+        public int Id {get; set;}
+        public int apuesta {get; set;}
+        public bool estado {get; set;}
+    }
     [ApiController]
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
