@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zve6SmXw8/87hm4r7QOD5kf8yTQP31JutVHflp8gIwv2UFlDGNA756DOK4yMnDV70a82ixbKYkZunhpLXeHTwA==",
+  "success": true,
+  "projectFilePath": "/Users/juanpablojordan/Documents/GitHub/api_roullete/api_roullete.csproj",
+  "expectedPackageFiles": [
+    "/Users/juanpablojordan/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/juanpablojordan/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/juanpablojordan/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/juanpablojordan/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/juanpablojordan/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/juanpablojordan/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
